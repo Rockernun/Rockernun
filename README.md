@@ -5,11 +5,11 @@
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=dracula)](https://github.com/metleeha)
-<br>
+|--|--|
 
-<br />
+<hr>
 
-<h2> 💻 Tech Stack </h2>
+<h2> <strong>💻 Tech Stack</strong> </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=white)
