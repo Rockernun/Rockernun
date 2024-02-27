@@ -1,4 +1,10 @@
 <h1> Hello, World! This is my Github... </h1>
+<p></p>
+
+<!-- 통계 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=dracula)](https://github.com/metleeha)
+<br>
 
 <br />
 <h2> 💻 Tech Stack </h2>
