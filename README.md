@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=💥Welcome%20to%20my%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👉%20Welcome%20to%20my%20Github&fontSize=60)
 
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
