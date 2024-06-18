@@ -32,7 +32,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-b4f5bd?style=flat-square&logo=Notion&logoColor=white)
 
 
