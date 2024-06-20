@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2> <strong>💻 Tech Stack</strong> </h2>
+<h2> <strong>💻 Studying & Learning </strong> </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=white)
