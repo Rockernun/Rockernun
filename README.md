@@ -3,8 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👉%20Welcome%20to%20my%20Github!&fontSize=60)
 
 <!-- 통계 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=dracula)](https://github.com/metleeha)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&langs_count=10&theme=radical"/>
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=midnight-purple&center=true&hide_border=true)
 
 <hr>
