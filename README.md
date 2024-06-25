@@ -4,11 +4,11 @@
 
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
-<img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
+<div align="center">
+    <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=2004mathematicsEnthusiastAniketDatta&theme=windows-dark&hide_border=true" alt="Streak Stats">
     <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
-
-<hr>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=dracula)](https://github.com/metleeha)
 
