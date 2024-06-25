@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👉%20Welcome%20to%20my%20Github!&fontSize=60)
 
 <!-- 통계 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical) 
 <div align="center">
     <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=2004mathematicsEnthusiastAniketDatta&theme=windows-dark&hide_border=true" alt="Streak Stats">
