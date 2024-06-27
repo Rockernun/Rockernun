@@ -11,7 +11,7 @@
 
 </div>
 
-<hr>
+&nbsp;
 
 
 <h2>Things I code with</h2>
