@@ -36,6 +36,7 @@
 <h3>Tools:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&label=&color=FF1493&logoColor=white&labelColor=&style=flat" height="35" alt="Intellij badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="35" alt="Git badge" style="margin-right: 10px;" />
 </p>
 
