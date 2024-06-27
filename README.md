@@ -13,21 +13,31 @@
 
 <hr>
 
-<h2> <strong>💻 Studying & Learning </strong> </h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<h2>Things I code with</h2>
+<h3>Programming Languages:</h3>
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="35" alt="JavaScript badge" style="margin-left: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=flat" height="35" alt="Java badge" />
+
+<h3>Technologies:</h3>
+<p>
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=flat" height="35" alt="HTML5 badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=flat" height="35" alt="CSS3 badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=flat" height="35" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=&style=flat" height="35" alt="Next.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="35" alt="Node.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white&labelColor=&style=flat" height="35" alt="Styled Components badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&labelColor=&style=flat" height="35" alt="Spring badge" style="margin-right: 10px;" />
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=&style=flat" height="35" alt="SpringBoot badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=flat" height="35" alt="MySQL badge" style="margin-right: 10px;" />
+</p>
+
+<h3>Tools:</h3>
+<p>
+  <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="35" alt="Git badge" style="margin-right: 10px;" />
+</p>
 
 
 
