@@ -18,6 +18,7 @@
 <h3>Programming Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="32" alt="JavaScript badge" style="margin-left: 10px;" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="32" alt="TypeScript badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=flat" height="32" alt="Java badge" />
 
 <h3>Technologies:</h3>
