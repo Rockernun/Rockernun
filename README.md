@@ -3,11 +3,8 @@
 <div align="center">
 
 <!-- 통계 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true&hide_border=true)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)
 ![Rockernun's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 </div>
 
