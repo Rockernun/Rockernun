@@ -22,8 +22,8 @@
 <p>
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=flat" height="32" alt="HTML5 badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=flat" height="32" alt="CSS3 badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=flat" height="32" alt="React.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=&style=flat" height="32" alt="Next.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=black&logoColor=61DAFB&labelColor=&style=flat" height="32" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="32" alt="Next.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="32" alt="Node.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white&labelColor=&style=flat" height="32" alt="Styled Components badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&labelColor=&style=flat" height="32" alt="Spring badge" style="margin-right: 10px;" />
