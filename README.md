@@ -39,7 +39,7 @@
 </p>
 
 
-<h3>Tools:</h3>
+<h3>💻 IDEs/Editors & Version Control:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="32" alt="VS Code badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&label=&color=FF1493&logoColor=white&labelColor=&style=flat" height="32" alt="Intellij badge" style="margin-right: 10px;" />
