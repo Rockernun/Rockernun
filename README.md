@@ -16,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="32" alt="JavaScript badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="32" alt="TypeScript badge" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="32" alt="Java badge" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="32" alt="Java badge" />
 </p>
 
 
