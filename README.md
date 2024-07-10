@@ -25,18 +25,17 @@
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="31" alt="Node.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=black&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white&labelColor=&style=flat" height="31" alt="React_Router badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white&labelColor=&style=flat" height="31" alt="Styled Components badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=react query&logoColor=white&labelColor=&style=flat" height="31" alt="react-query badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Recoil-0064FF?style=flat-square&logo=recoil&logoColor=white&labelColor=&style=flat" height="31" alt="Recoil badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white&labelColor=&style=flat" height="31" alt="reacthookform badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;" />
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=&style=flat" height="31" alt="SpringBoot badge" style="margin-right: 10px;" />
 </p>
 
 
-<h3>💾 Databases:</h3>
+<h3>🎨 Design:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=flat" height="31" alt="MySQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Framer-white?style=flat-square&logo=framer&logoColor=blue&labelColor=&style=flat" height="31" alt="Framer badge" style="margin-right: 10px;" />
 </p>
 
 
