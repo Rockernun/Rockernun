@@ -4,7 +4,6 @@
 
 <!-- 통계 -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)
-![Rockernun's github stats](https://github-readme-stats.vercel.app/api?username=Rockernun&show_icons=true&theme=radical)
 
 </div>
 
