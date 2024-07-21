@@ -15,7 +15,6 @@
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="31" alt="JavaScript badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="31" alt="Java badge" />
 </p>
 
 
@@ -24,17 +23,6 @@
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="31" alt="Node.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=black&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white&labelColor=&style=flat" height="31" alt="React_Router badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white&labelColor=&style=flat" height="31" alt="Styled Components badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=react query&logoColor=white&labelColor=&style=flat" height="31" alt="react-query badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Recoil-0064FF?style=flat-square&logo=recoil&logoColor=white&labelColor=&style=flat" height="31" alt="Recoil badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white&labelColor=&style=flat" height="31" alt="reacthookform badge" style="margin-right: 10px;" />
-</p>
-
-
-<h3>🎨 Design:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Framer-white?style=flat-square&logo=framer&logoColor=blue&labelColor=&style=flat" height="31" alt="Framer badge" style="margin-right: 10px;" />
 </p>
 
 
