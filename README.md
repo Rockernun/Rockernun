@@ -23,7 +23,7 @@
 <h3>📚 Frameworks, Platforms and Libraries:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="31" alt="Node.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=black&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=323232&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
 </p>
 
