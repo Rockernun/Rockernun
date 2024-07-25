@@ -25,6 +25,13 @@
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="31" alt="Node.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=505050&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=&style=flat" height="31" alt="TailwindCSS badge" style="margin-right: 10px;" />
+</p>
+
+<h3>💾 Database:</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=&style=flat" height="31" alt="MySQL badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/PlanetScale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=&style=flat" height="31" alt="PlanetScale badge" style="margin-right: 10px;"/>
 </p>
 
 
@@ -33,6 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="31" alt="VS Code badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&label=&color=FF1493&logoColor=white&labelColor=&style=flat" height="31" alt="Intellij badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="31" alt="Git badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=&style=flat" height="31" alt="Prisma badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=flat" height="31" alt="Vercel badge" style="margin-right: 10px;/>
 </p>
 
