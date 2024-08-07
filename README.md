@@ -38,7 +38,6 @@
 <h3>🛠️ Tools:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="31" alt="VS Code badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&label=&color=FF1493&logoColor=white&labelColor=&style=flat" height="31" alt="Intellij badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="31" alt="Git badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=&style=flat" height="31" alt="Prisma badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=flat" height="31" alt="Vercel badge" style="margin-right: 10px;/>
