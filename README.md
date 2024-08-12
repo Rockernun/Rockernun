@@ -29,7 +29,6 @@
 
 <h3>💾 Database:</h3>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=&style=flat" height="31" alt="MySQL badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=&style=flat" height="31" alt="SQLite badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/PlanetScale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=&style=flat" height="31" alt="PlanetScale badge" style="margin-right: 10px;"/>
 </p>
