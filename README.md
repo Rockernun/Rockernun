@@ -6,6 +6,9 @@
 | [![Rockernun's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121)
+
 
 </div>
 
