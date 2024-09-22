@@ -38,9 +38,10 @@
 &nbsp;
 
 <h3>🤔Algorithm:</h3>
-<p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121"/>
-</p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121)
+
 
 <br/>
 
