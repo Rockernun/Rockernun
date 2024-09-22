@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=&style=flat" height="31" alt="TailwindCSS badge" style="margin-right: 10px;" />
 </p>
 
-<h3>🤔Algorithm:</h3>
+<h3>🤔 Algorithm:</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121)
