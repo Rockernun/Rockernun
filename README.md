@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=282828&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Next-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&labelColor=&style=flat" height="31" alt="Styled component badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?flat-square&logo=tailwind-css&logoColor=white&labelColor=&style=flat" height="31" alt="Tailwind badge" style="margin-right: 10px;" />
 </p>
 
 <h3>🤔 Algorithm:</h3>
