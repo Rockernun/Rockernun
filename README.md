@@ -16,7 +16,6 @@
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="31" alt="JavaScript badge" style="margin-left: 10px;" />   
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=&style=flat" height="31" alt="[ython badge" style="margin-left: 10px;" />
 </p>
 
 
