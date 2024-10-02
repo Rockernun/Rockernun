@@ -11,30 +11,27 @@
 &nbsp;
 
 
-<h2>✅ Things I code with</h2>
-<h3>💻 Programming Languages:</h3> 
+<h2>📚 Now Studying</h2>
+<h3>🪄 FrontEnd:</h3> 
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=black&labelColor=&style=flat" height="31" alt="JavaScript badge" style="margin-left: 10px;" />   
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
-</p>
-
-
-<h3>📚 Frameworks, Platforms and Libraries:</h3>
-<p>
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=282828&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Next-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?flat-square&logo=tailwind-css&logoColor=white&labelColor=&style=flat" height="31" alt="Tailwind badge" style="margin-right: 10px;" />
 </p>
 
-<h3>🤔 Algorithm:</h3>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121)
+<h3>⌨️ BackEnd:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="31" alt="Java badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
+</p>
 
 
 <h3>🛠️ Tools:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="31" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&label=&color=FE2EC8&logoColor=white&labelColor=&style=flat" height="31" alt="IntelliJIDEA badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="31" alt="Git badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=flat" height="31" alt="Vercel badge" style="margin-right: 10px;/>
 </p>
