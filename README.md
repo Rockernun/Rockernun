@@ -15,7 +15,6 @@
 <h3>🪄 FrontEnd:</h3> 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=282828&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Next-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
 </p>
