@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="31" alt="Java badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Firebase-a08021?style=flat=square&logo=firebase&logoColor=ffcd34&labelColor=&style=flat" height="31" alt="Firebase badge" style="margin-right: 10px;" />
 </p>
 
 
