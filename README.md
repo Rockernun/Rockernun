@@ -14,19 +14,24 @@
 <h2>📚 Now Studying</h2>
 <h3>🪄 FrontEnd:</h3> 
 <p>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=black&labelColor=&style=flat" height="31" alt="TypeScript badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=282828&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white&labelColor=&style=flat" height="31" alt="ReactQuery badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Next-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
 </p>
 
 
 <h3>⌨️ BackEnd:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=&style=flat" height="31" alt="Java badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Nest-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white&labelColor=&style=flat" height="31" alt="Nest badge" style="margin-right: 10px;"/>
 </p>
 
+<h3>🤝 Work:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&labelColor=&style=flat" height="31" alt="Notion badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=&style=flat" height="31" alt="Discord badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=&style=flat" height="31" alt="Jira badge" style="margin-right: 10px;"/>
+</p>
 
 <h3>🛠️ Tools:</h3>
 <p>
@@ -35,16 +40,6 @@
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="31" alt="Git badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=flat" height="31" alt="Vercel badge" style="margin-right: 10px;/>
 </p>
-
-
-
-&nbsp;
-
-<h2>📝 Blog</h2>
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rocker_nun?theme=dark&posts=3)
-
-
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
