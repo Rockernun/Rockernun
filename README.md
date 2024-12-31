@@ -23,7 +23,6 @@
 <h3>⌨️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Nest-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white&labelColor=&style=flat" height="31" alt="Nest badge" style="margin-right: 10px;"/>
 </p>
 
 <h3>🤝 Work:</h3>
