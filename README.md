@@ -12,6 +12,10 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/rockernun/rockernun/output/snake.svg" alt="Snake animation" />
+
+###
+
 &nbsp;
 
 
