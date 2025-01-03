@@ -3,10 +3,6 @@
 <div align="center">
 <!-- 통계 -->
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/smiinii/count.svg?"  />
-</div>
-
 | [![Rockernun's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
