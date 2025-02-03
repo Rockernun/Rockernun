@@ -27,6 +27,7 @@
 <h3>⌨️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=&style=flat" height="31" alt="Django badge" style="margin-right: 10px;""
 </p>
 
 <h3>🤝 Work:</h3>
