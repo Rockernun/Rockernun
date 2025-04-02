@@ -16,34 +16,56 @@
 
 
 <h2>📚 Now Studying</h2>
+
 <h3>🪄 FrontEnd:</h3> 
 <p>
-  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=282828&logoColor=61DAFB&labelColor=&style=flat" height="31" alt="React.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white&labelColor=&style=flat" height="31" alt="ReactQuery badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Next-white?style=flat-square&logo=next.js&logoColor=black&labelColor=&style=flat" height="31" alt="Next.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="31" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="31" alt="Next.js badge" style="margin-right: 10px;" />
 </p>
-
 
 <h3>⌨️ BackEnd:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white&labelColor=&style=flat" height="31" alt="Spring badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=&style=flat" height="31" alt="Django badge" style="margin-right: 10px;""
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="31" alt="Spring badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="31" alt="Django badge" style="margin-right: 10px;" />
+</p>
+
+<h3>🗃️ Databases:</h3>
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="31" alt="MySQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="31" alt="Postgres badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="31" alt="MongoDB badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="31" alt="Redis badge" style="margin-right: 10px;" />
+</p>
+
+<h3>🛠️ DevOps & Deployment:</h3>
+<p>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="31" alt="Vercel badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="31" alt="AWS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="31" alt="Nginx badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="31" alt="Docker badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="31" alt="Kubernetes badge" style="margin-right: 10px;" />
 </p>
 
 <h3>🤝 Work:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&labelColor=&style=flat" height="31" alt="Notion badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=&style=flat" height="31" alt="Discord badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=&style=flat" height="31" alt="Jira badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="31" alt="Notion badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="31" alt="Discord badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="31" alt="Jira badge" style="margin-right: 10px;" />
 </p>
 
-<h3>🛠️ Tools:</h3>
+<h3>💻 IDEs/Editors:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="31" alt="VS Code badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&label=&color=FE2EC8&logoColor=white&labelColor=&style=flat" height="31" alt="IntelliJIDEA badge" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="31" alt="Git badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=flat" height="31" alt="Vercel badge" style="margin-right: 10px;/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="31" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="31" alt="IntelliJ IDEA badge" style="margin-right: 10px;" />
 </p>
+
+<h3>⚙️ Version Control:</h3>
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="31" alt="Git badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="31" alt="GitHub badge" style="margin-right: 10px;" />
+</p>
+
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
