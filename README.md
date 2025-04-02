@@ -26,6 +26,7 @@
 <h3>⌨️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="31" alt="Spring badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="31" alt="Springboot badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="31" alt="Django badge" style="margin-right: 10px;" />
 </p>
 
