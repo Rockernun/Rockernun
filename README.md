@@ -54,19 +54,6 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="31" alt="Kubernetes badge" style="margin-right: 10px;" />
 </p>
 
-<h3>🤝 Work:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="31" alt="Notion badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="31" alt="Discord badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="31" alt="Jira badge" style="margin-right: 10px;" />
-</p>
-
-<h3>💻 IDEs/Editors:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="31" alt="VS Code badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="31" alt="IntelliJ IDEA badge" style="margin-right: 10px;" />
-</p>
-
 <h3>⚙️ Version Control:</h3>
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="31" alt="Git badge" style="margin-right: 10px;" />
