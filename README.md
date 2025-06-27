@@ -24,17 +24,10 @@
 
 <h2>📚 Now Studying</h2>
 
-<h3>🪄 FrontEnd:</h3> 
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="31" alt="React.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="31" alt="Next.js badge" style="margin-right: 10px;" />
-</p>
-
 <h3>⌨️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="31" alt="Spring badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="31" alt="Springboot badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="31" alt="Django badge" style="margin-right: 10px;" />
 </p>
 
 <h3>🗃️ Databases:</h3>
@@ -47,7 +40,6 @@
 
 <h3>🛠️ DevOps & Deployment:</h3>
 <p>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="31" alt="Vercel badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="31" alt="AWS badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="31" alt="Nginx badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="31" alt="Docker badge" style="margin-right: 10px;" />
