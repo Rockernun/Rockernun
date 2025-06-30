@@ -24,6 +24,12 @@
 
 <h2>📚 Now Studying</h2>
 
+<h3>📋 Languages:</h3>
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="31"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="31"/>
+</p>
+
 <h3>⌨️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="31" alt="Spring badge" style="margin-right: 10px;" />
