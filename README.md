@@ -8,6 +8,9 @@
 
 </div>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockernun&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121/)
+
 <img src="https://raw.githubusercontent.com/rockernun/rockernun/output/snake.svg" alt="Snake animation" />
 
 ###
