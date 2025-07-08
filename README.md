@@ -3,12 +3,12 @@
 <div align="center">
 <!-- 통계 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockernun&show_icons=true&theme=radical)
+![Rockernun's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=radical)
 
 </div>
 
-![Rockernun's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockernun&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121/)
 
 ###
