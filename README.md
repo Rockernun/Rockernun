@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="31" alt="AWS badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="31" alt="Nginx badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="31" alt="Docker badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="31" alt="Kubernetes badge" style="margin-right: 10px;" />
 </p>
 
 <h3>⚙️ Version Control:</h3>
