@@ -8,20 +8,7 @@
 
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockernun&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121)](https://solved.ac/sooini121/)
-
 ###
-
-&nbsp;
-
-## 🏃‍♀️ Activities
-- 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2023.06 ~ now`
-- 인천대학교 구름톤 유니브 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
-- 노마드코더 리액트 스터디 5기 `2024.06 ~ 2024.08`
-
-&nbsp;
-
 
 <h2>📚 My Stacks</h2>
 
@@ -31,6 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+
+## 🏃‍♀️ Activities
+- 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2023.06 ~ now`
+- 인천대학교 구름톤 유니브 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
+- 노마드코더 리액트 스터디 5기 `2024.06 ~ 2024.08`
 
 
 
