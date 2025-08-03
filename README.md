@@ -40,9 +40,6 @@
 <h3>🗃️ Databases:</h3>
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="31" alt="MySQL badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="31" alt="Postgres badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="31" alt="MongoDB badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="31" alt="Redis badge" style="margin-right: 10px;" />
 </p>
 
 <h3>🛠️ DevOps & Deployment:</h3>
