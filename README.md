@@ -23,37 +23,15 @@
 &nbsp;
 
 
-<h2>📚 Now Studying</h2>
+<h2>📚 My Stacks</h2>
 
-<h3>📋 Languages:</h3>
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="31"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="31"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
-<h3>⌨️ BackEnd:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="31" alt="Spring badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="31" alt="Springboot badge" style="margin-right: 10px;" />
-</p>
-
-<h3>🗃️ Databases:</h3>
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="31" alt="MySQL badge" style="margin-right: 10px;" />
-</p>
-
-<h3>🛠️ DevOps & Deployment:</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="31" alt="AWS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="31" alt="Nginx badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="31" alt="Docker badge" style="margin-right: 10px;" />
-</p>
-
-<h3>⚙️ Version Control:</h3>
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="31" alt="Git badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="31" alt="GitHub badge" style="margin-right: 10px;" />
-</p>
 
 
 
