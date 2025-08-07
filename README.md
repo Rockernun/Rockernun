@@ -17,7 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 ## 🏃‍♀️ Activities
