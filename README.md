@@ -8,6 +8,8 @@
 
 </div>
 
+&nbsp;
+
 ###
 
 <h2>📚 My Stacks</h2>
@@ -19,6 +21,8 @@
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+
+&nbsp;
 
 ## 🏃‍♀️ Activities
 - 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2023.06 ~ now`
