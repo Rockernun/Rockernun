@@ -24,6 +24,12 @@
 
 &nbsp;
 
+<h2>📝 My Velog</h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rocker_nun)](https://github.com/eungyeole/velog-readme-stats)
+
+&nbsp;
+
 ## 📃 Certificates
 - 정보처리기사 | 과학기술정보통신부(실기 진행 중)
 - 제58회 SQL 개발자(SQLD) | 한국데이터산업진흥원 
