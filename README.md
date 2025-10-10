@@ -28,11 +28,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rocker_nun)](https://github.com/eungyeole/velog-readme-stats)
 
-&nbsp;
-
-## 📃 Certificates
-- 정보처리기사 | 과학기술정보통신부(실기 진행 중)
-- 제58회 SQL 개발자(SQLD) | 한국데이터산업진흥원 
 
 &nbsp;
 
@@ -40,6 +35,12 @@
 - 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2023.06 ~ now`
 - 인천대학교 구름톤 유니브 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
 - 노마드코더 리액트 스터디 5기 `2024.06 ~ 2024.08`
+
+&nbsp;
+
+## 📃 Certificates
+- 정보처리기사 | 과학기술정보통신부(실기 진행 중)
+- 제58회 SQL 개발자(SQLD) | 한국데이터산업진흥원 
 
 
 
