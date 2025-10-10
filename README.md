@@ -14,13 +14,13 @@
 
 <h2>📚 My Stacks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
