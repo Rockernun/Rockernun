@@ -26,7 +26,7 @@
 
 <h2>📝 My Velog</h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rocker_nun)](https://github.com/eungyeole/velog-readme-stats)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rocker_nun?theme=dark&posts=3)
 
 
 &nbsp;
