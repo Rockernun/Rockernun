@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=😁%20Welcome%20to%20my%20Github!&fontSize=63)
-
 <div align="center">
 <!-- 통계 -->
 
@@ -7,6 +5,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=radical)
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockernun&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true" alt="Rockernun's github activity graph">
+  </a>
+</p>
 
 &nbsp;
 
@@ -42,8 +46,3 @@
 - 정보처리기사 | 과학기술정보통신부(실기 진행 중)
 - 제58회 SQL 개발자(SQLD) | 한국데이터산업진흥원 
 
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
