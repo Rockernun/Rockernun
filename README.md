@@ -17,7 +17,7 @@
 
 ###
 
-<h2>📚 My Stacks</h2>
+<h2>🔨 My Stacks</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
@@ -29,7 +29,7 @@
 
 &nbsp;
 
-<h2>📝 My Velog</h2>
+<h2>🖋 My Velog</h2>
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rocker_nun?theme=dark&posts=3)
 
@@ -45,7 +45,7 @@
 
 &nbsp;
 
-## 📃 Certificates
-- 정보처리기사 | 과학기술정보통신부
-- 제58회 SQL 개발자(SQLD) | 한국데이터산업진흥원 
+## 🧾 Certificates
+- **정보처리기사**
+- **SQL 개발자(SQLD)**
 
