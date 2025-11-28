@@ -1,10 +1,17 @@
-<div align="center">
-<!-- 통계 -->
+<h3 align="center">📊 My GitHub Stats 📊</h3>
 
-![Rockernun's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&center=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&theme=radical)
-
-</div>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" style="padding: 0 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&hide_border=false" alt="streak stats" width="420"/>
+      </td>
+      <td align="center" style="padding: 0 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&show_icons=true&theme=radical&hide_border=false&langs_count=6" alt="top langs" width="360"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 &nbsp;
