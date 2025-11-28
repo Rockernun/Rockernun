@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rockernun&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true" alt="Rockernun's github activity graph">
-  </a>
-</p>
-
 <div align="center">
 <!-- 통계 -->
 
