@@ -47,5 +47,5 @@
 
 ## 🧾 Certificates
 - 정보처리기사
-- SQL 개발자(SQLD)
+- SQLD
 
