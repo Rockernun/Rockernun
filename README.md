@@ -48,6 +48,6 @@
 
 ## 🧾 Certificates
 - 정보처리기사
-- SQLD
+- SQL 개발자 (SQLD)
 - TOEIC Speaking (Intermediate High)
 
