@@ -1,20 +1,5 @@
-<h3 align="center">📊 My GitHub Stats 📊</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=40&duration=3000&pause=500&color=04F7EC&width=435&lines=Talk+is+cheap.;Show+me+the+code.)](https://git.io/typing-svg)
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="padding: 0 15px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockernun&theme=radical&hide_border=false" alt="streak stats" width="420"/>
-      </td>
-      <td align="center" style="padding: 0 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockernun&layout=compact&show_icons=true&theme=radical&hide_border=false&langs_count=6" alt="top langs" width="360"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-&nbsp;
 
 ###
 
@@ -41,7 +26,6 @@
 - 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2025.01 ~ now`
 - 인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 프론트엔드 파트 `2023.06 ~ 2024.12`
 - 9oormthonUNIV 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
-- 노마드코더 리액트 스터디 5기 `2024.06 ~ 2024.08`
 
 &nbsp;
 
