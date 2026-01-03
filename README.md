@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=40&duration=4000&pause=1000&color=04F7EC&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=29&duration=4000&pause=1000&color=04F7EC&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg)
 
 
 ###
