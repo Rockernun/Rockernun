@@ -36,8 +36,3 @@
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
-&nbsp;
-
-<h3>🖋 My Velog</h3>
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rocker_nun?theme=dark&posts=3)
