@@ -11,6 +11,12 @@
 
 &nbsp;
 
+> 📊 Programmers Level
+
+![Programmers_Badge](https://raw.githubusercontent.com/Rockernun/programmers-badge/master/static/result.svg)
+
+&nbsp;
+
 > 🏃‍♀️ Activities
 - **우아한테크코스 8기 프리코스 | 웹 백엔드 파트 `2025.10 ~ 2025.11`**
 - **인천대학교 정보통신공학과 웹 개발 동아리 ComWith | 백엔드 파트 `2025.01 ~ 2026.01`**
