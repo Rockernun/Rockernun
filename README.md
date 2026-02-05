@@ -27,16 +27,16 @@
 
 &nbsp;
 
-<h3>🔨 My Stacks</h3>
+> 🛠 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev)
-
