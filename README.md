@@ -11,9 +11,9 @@
 
 &nbsp;
 
-> 📊 Programmers Level
+> 📊 Programmers
 
-![Programmers_Badge](https://raw.githubusercontent.com/Rockernun/programmers-badge/master/static/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/Rockernun/Programmers_Badge_Generator/main/result/result.svg)
 
 &nbsp;
 
