@@ -35,7 +35,6 @@
 
 > 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
