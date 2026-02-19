@@ -11,9 +11,20 @@
 
 &nbsp;
 
-> 📊 Programmers
+> 📊 Baekjoon & Programmers 
 
-![Programmers Badge](https://raw.githubusercontent.com/Rockernun/Programmers_Badge_Generator/main/result/result.svg)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://solved.ac/sooini121">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=sooini121" height="165" />
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/Rockernun/Programmers_Badge_Generator/main/result/result.svg" height="165" />
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 
