@@ -17,7 +17,7 @@
   <tr>
     <td valign="top">
       <a href="https://solved.ac/sooini121">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=sooini121" height="165" />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121" height="165" />
       </a>
     </td>
     <td valign="top">
