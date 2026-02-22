@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=29&duration=4000&pause=1000&color=04F7EC&width=435&lines=Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg)
-
 ### 😊 Who am I
 **함께 일하고 싶은 사람이 되기 위해 노력하는 백엔드 개발자 박병욱입니다.**
 
