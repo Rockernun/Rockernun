@@ -5,7 +5,7 @@
 
 > 🎓 Education
 - **인천대학교(Incheon National University) - 정보통신공학과 `2022.03 ~ 2026.02`**
-- **[KB국민은행] IT's Your Life 7기 `2026.03 ~ 2026.08`**
+- **[KB국민은행] IT's Your Life 7기 `2026.03 ~ now`**
 
 &nbsp;
 
