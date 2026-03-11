@@ -1,4 +1,4 @@
-### 😄 Who am I
+하### 😄 Who am I
 > **기본기에 충실하고, 함께 일하고 싶은 사람이 되기 위해 노력하는 개발자 박병욱입니다.**
 
 &nbsp;
@@ -54,7 +54,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 
 
 &nbsp;
