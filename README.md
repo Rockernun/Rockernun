@@ -52,9 +52,9 @@
 
 ### 🤔 Current learning tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
