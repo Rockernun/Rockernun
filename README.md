@@ -10,6 +10,12 @@
 
 &nbsp;
 
+### 🤝 OpenSource Contribution
+> **TEAMMATES project**: [[#13304] Refactoring for Unit Test Access Controls
+](https://github.com/TEAMMATES/teammates/pull/13404)
+
+&nbsp;
+
 ### 🏃‍♀️ Activities
 > **우아한테크코스 8기 프리코스 - 웹 백엔드 파트 `2025.10 ~ 2025.11`**
 
