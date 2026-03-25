@@ -30,23 +30,6 @@
 
 &nbsp;
 
-### 📊 Baekjoon & Programmers 
-
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://solved.ac/sooini121">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sooini121" height="165" />
-      </a>
-    </td>
-    <td valign="top">
-      <img src="https://raw.githubusercontent.com/Rockernun/Programmers_Badge_Generator/main/result/result.svg" height="165" />
-    </td>
-  </tr>
-</table>
-
-&nbsp;
-
 ### 🧾 Certification
 > **정보처리기사 - 과학기술정보통신부**
 
