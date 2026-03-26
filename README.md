@@ -48,6 +48,8 @@
 
 ### 🛠 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
