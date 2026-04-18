@@ -44,6 +44,7 @@
 ### 🤔 Current learning tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
@@ -56,4 +57,3 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
