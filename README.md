@@ -45,7 +45,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
