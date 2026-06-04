@@ -14,10 +14,12 @@
 > **TEAMMATES project**: [[#13304] Refactoring for Unit Test Access Controls
 ](https://github.com/TEAMMATES/teammates/pull/13404)
 
+> **eGovFramework VSCode Initializr**: [[fix: AOP 트랜잭션 설정 템플릿에서 txAdvisor의 잘못된 직접 메서드 호출 수정]](https://github.com/eGovFramework/egovframe-vscode-initializr/pull/12)
+
 &nbsp;
 
 ### 🏃‍♀️ Activities
-> **2026 오픈소스 컨트리뷰션 아카데미 - eGovframe VSCode Initializr 프로젝트 `2026.04 ~ now`**
+> **2026 오픈소스 컨트리뷰션 아카데미 - eGovframe VSCode Initializr 프로젝트 `2026.04 ~ 2026.06`**
 
 > **우아한테크코스 8기 프리코스 - 웹 백엔드 파트 `2025.10 ~ 2025.11`**
 
