@@ -14,7 +14,7 @@
 > **TEAMMATES project**: [[#13304] Refactoring for Unit Test Access Controls
 ](https://github.com/TEAMMATES/teammates/pull/13404)
 
-> **eGovFramework VSCode Initializr**: [[fix: AOP 트랜잭션 설정 템플릿에서 txAdvisor의 잘못된 직접 메서드 호출 수정]](https://github.com/eGovFramework/egovframe-vscode-initializr/pull/12)
+> **eGovFramework VSCode Initializr**: [fix: AOP 트랜잭션 설정 템플릿에서 txAdvisor의 잘못된 직접 메서드 호출 수정](https://github.com/eGovFramework/egovframe-vscode-initializr/pull/12)
 
 &nbsp;
 
