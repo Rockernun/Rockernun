@@ -46,6 +46,7 @@
 ### 🤔 Current learning tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
