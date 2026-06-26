@@ -45,18 +45,19 @@
 
 ### 🤔 Current learning tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)
 
 &nbsp;
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
