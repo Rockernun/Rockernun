@@ -47,7 +47,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)
 
 &nbsp;
 
@@ -58,6 +57,6 @@
 [![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
