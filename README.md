@@ -21,7 +21,7 @@
 
 &nbsp;
 
-### 🏃‍♀️ Activities
+### 🏃‍♀️ Personal Experience
 > **2026 오픈소스 컨트리뷰션 아카데미 - eGovframe VSCode Initializr 프로젝트 `2026.04 ~ 2026.06`**
 
 > **우아한테크코스 8기 프리코스 - 웹 백엔드 파트 `2025.10 ~ 2025.11`**
@@ -37,7 +37,7 @@
 
 &nbsp;
 
-### 🧾 Certification
+### 🧾 Certificate
 > **정보처리기사 - 과학기술정보통신부**
 
 > **SQL 개발자(SQLD) - 한국데이터산업진흥원**
@@ -52,7 +52,7 @@
 
 &nbsp;
 
-### 🛠 Tech Stack
+### 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
