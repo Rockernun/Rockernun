@@ -6,13 +6,6 @@
 
 &nbsp;
 
-### 🎓 Education
-> **[KB국민은행] KB IT's Your Life - 7기 `2026.03 ~ 2026.08`**
-
-> **인천대학교(Incheon National University) - 정보통신공학과 `2022.03 ~ 2026.02`**
-
-&nbsp;
-
 ### 🤝 OpenSource Contribution
 > **eGovFramework VSCode Initializr**: [fix: AOP 트랜잭션 설정 템플릿에서 txAdvisor의 잘못된 직접 메서드 호출 수정](https://github.com/eGovFramework/egovframe-vscode-initializr/pull/12)
 
@@ -37,15 +30,6 @@
 
 &nbsp;
 
-### 🧾 Certificate
-> **정보처리기사 - 과학기술정보통신부**
-
-> **SQL 개발자(SQLD) - 한국데이터산업진흥원**
-
-> **TOEIC Speaking (Intermediate High)**
-
-&nbsp;
-
 ### 🤔 Current learning tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
@@ -62,3 +46,19 @@
 [![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+
+&nbsp;
+
+### 🎓 Education
+> **[KB국민은행] KB IT's Your Life - 7기 `2026.03 ~ 2026.08`**
+
+> **인천대학교(Incheon National University) - 정보통신공학과 `2022.03 ~ 2026.02`**
+
+&nbsp;
+
+### 🧾 Certificate
+> **정보처리기사 - 한국산업인력공단**
+
+> **SQL 개발자(SQLD) - 한국데이터산업진흥원**
+
+> **TOEIC Speaking (Intermediate High)**
