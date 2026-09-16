@@ -9,7 +9,7 @@
 ### 🎓 Education
 > **인천대학교(Incheon National University) - 정보통신공학과 `2022.03 ~ 2026.02`**
 
-> **[KB국민은행] IT's Your Life 7기 `2026.03 ~ 2026.08`**
+> **[KB국민은행] KB IT's Your Life - 7기 `2026.03 ~ 2026.08`**
 
 &nbsp;
 
@@ -48,17 +48,17 @@
 
 ### 🤔 Current learning tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
