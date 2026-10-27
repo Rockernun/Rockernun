@@ -32,6 +32,7 @@
 
 ### 🤔 Current learning tech stack
 
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 
 &nbsp;
